@@ -9,7 +9,7 @@ def two_sum(nums, target):
         else:
             return [h[target-nums[pos]], pos]
 
-#loops
+#our loops
 """
 48 ms
 nums = [2,15,11,7]
