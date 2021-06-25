@@ -4,11 +4,11 @@ Experience in OOP (Preferably Python) Leetcode solutions
 | # | Title | Solution | Difficulty | Basic idea (One line) |
 |---| ----- | -------- | -----------| --------------------- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/TwoSums.py) | Easy | 1. Hash O(n) and O(n) space.<br>2. Sort and search with two points O(n) and O(1) space. |
-| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/20-valid-parentheses.py) | Easy | Stack<br>2. Replace all parentheses with '', if empty then True  |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/20-valid-parentheses.py) | Easy | 1. Stack<br>2. Replace all parentheses with '', if empty then True  |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/26-remove-duplicates-from-sorted-array.py) | Easy |  |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/27-remove-element.py) | Easy |  |
-| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/35-search-insert-position.py) | Easy |  |
-| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/53-maximum-subarray.py) | Easy |  |
+| 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/35-search-insert-position.py) | Easy | Binary Search |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/53-maximum-subarray.py) | Easy | Recursion, O(nlgn), O(lgn) |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/70-climbing-stairs.py) | Easy |  |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/100-same-tree.py) | Easy |  |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Python](https://github.com/anniemaa/OOP-Python/blob/main/104-maximum-depth-of-binary-tree.py) | Easy | Recursion max(left, right) + 1 |
