@@ -1,5 +1,5 @@
 # OOP-Python
-Experience in OOP (Preferably Python) Leetcode solutions
+Demonstrating my experience in Object oriented programming (Preferably Python) Leetcode solutions
 
 | # | Title | Solution | Difficulty | Basic idea (One line) |
 |---| ----- | -------- | -----------| --------------------- |
